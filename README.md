@@ -30,7 +30,7 @@ The **Luminosity Drone** is a simulation-based drone designed to perform real-ti
 2. Set up **OpenCV**: Follow the [OpenCV installation guide](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html).
 3. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/luminosity-drone.git
+   git clone https://github.com/its-kundan/luminosity-drone.git
    ```
 4. Run the Python scripts to start the simulation and control the drone.
 
